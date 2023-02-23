@@ -1,0 +1,16 @@
+.box {
+    border-style: solid;
+    width: 310px;
+    height: 470;
+    float: right;
+    margin-left: 900px;
+    top: 60px;
+    bottom: 2%;
+    position : absolute;
+    border-color: orange;
+}  
+
+.container {
+    margin:0 auto; 
+    width:960px; 
+ }
